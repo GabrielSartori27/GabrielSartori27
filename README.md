@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Gabriel Sartori, estudante de Desenvolvimento Web Full Stack.
+## Olá!! Eu sou o Gabriel Sartori, Desenvolvedor Web Full Stack.
 
 <div align="center">
   <a href="https://github.com/GabrielSartori27">
