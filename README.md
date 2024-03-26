@@ -6,15 +6,15 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-NodeJS" height="35" width="70" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Gabriel-TypeScript" height="35" width="70" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Gabriel-MySQL" height="35" width="70" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Gabriel-MongoDB" height="35" width="70" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Gabriel-Sequelize" height="35" width="70" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-  <img align="center" alt="Gabriel-Jest" height="35" width="70" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-  <img align="center" alt="Gabriel-Mocha" height="35" width="70" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
-  <img align="center" alt="Gabriel-Chai" height="35" width="70" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
-  <img align="center" alt="Gabriel-Sinon" height="35" width="70" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
+  <img align="center" alt="Gabriel-NodeJS" height="35" width="75" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Gabriel-TypeScript" height="35" width="75" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Gabriel-MySQL" height="35" width="75" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Gabriel-MongoDB" height="35" width="75" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Gabriel-Sequelize" height="35" width="75" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+  <img align="center" alt="Gabriel-Jest" height="35" width="75" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img align="center" alt="Gabriel-Mocha" height="35" width="75" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
+  <img align="center" alt="Gabriel-Chai" height="35" width="75" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
+  <img align="center" alt="Gabriel-Sinon" height="35" width="75" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
 </div>
   
   ##
